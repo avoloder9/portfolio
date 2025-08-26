@@ -8,10 +8,10 @@ const works = [
     projectLink: "https://github.com/avoloder9/eBolnica-RS2/",
   },
   {
-    imgSrc: "/images/projekat_tracker.png",
-    title: "Expense Tracker – Mobile App",
-    tags: ["Flutter", "Mobile", "Finance"],
-    projectLink: "https://github.com/avoloder9/Expense_tracker",
+    imgSrc: "/images/food-order-app.png",
+    title: "Food order app - Web application",
+    tags: ["React", "Node.js"],
+    projectLink: "https://github.com/avoloder9/food-order-app",
   },
   {
     imgSrc: "/images/projekat_ml.png",
@@ -20,16 +20,22 @@ const works = [
     projectLink: "https://github.com/avoloder9/Heart-Disease-Agent",
   },
   {
+    imgSrc: "/images/bankist.png",
+    title: "Bankist – Real-time Finance Web App",
+    tags: [".NET", "Angular", "SignalR", "Real-time"],
+    projectLink: "https://github.com/avoloder9/Bankist_WebApp",
+  },
+  {
     imgSrc: "/images/praksa.png",
     title: "QSD Shop – Laravel Backend for Webshop",
     tags: ["Laravel", "MySQL", "eCommerce", "Backend"],
     projectLink: "https://github.com/avoloder9/Qsd-Shop",
   },
   {
-    imgSrc: "/images/bankist.png",
-    title: "Bankist – Real-time Finance Web App",
-    tags: [".NET", "Angular", "SignalR", "Real-time"],
-    projectLink: "https://github.com/avoloder9/Bankist_WebApp",
+    imgSrc: "/images/projekat_tracker.png",
+    title: "Expense Tracker – Mobile App",
+    tags: ["Flutter", "Mobile", "Finance"],
+    projectLink: "https://github.com/avoloder9/Expense_tracker",
   },
 ];
 
