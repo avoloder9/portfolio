@@ -26,7 +26,7 @@ const Hero = () => {
             className="headline-1 max-w-[15ch] sm:max-w-[20ch]
            lg:max-w-[15ch] mt-5 mb-8 lg:mb-10"
           >
-            Exploring web development through real-world projects
+            Exploring software engineering through real-world projects
           </h2>
           <div className="flex items-center gap-3">
             <a href="/Adnan Voloder - CV.pdf" download>
